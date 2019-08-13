@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-size: 45px;
+    text-shadow: rgb(255, 253, 253) 1px 1px 10px;
+    color:#33ff99;
+    background-image: url(../8ebc9bb49188b73e33a5a42270ecd0ee.jpg);
+    background-size: cover;
+}
+marquee{
+    font-family: 'Moul', cursive;
+    color: yellow;
+}
+.text{
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    border: solid snow 2px;
+}
